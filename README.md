@@ -6,3 +6,5 @@
 
 => use command 'npm run dev' to start the application
    
+   
+=> To access the api open postman and add the following API with GET method = https://192.168.2.25:5000/data
