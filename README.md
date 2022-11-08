@@ -1,3 +1,3 @@
-How to start
-
-use command 'npm run dev'
+=> How to start application
+   use command 'npm run dev'
+   
